@@ -15,13 +15,13 @@ This repository gives an overview of all the projects developed for the Udacity 
       </p>
     </th>
         <th><p align="center">
-           <a href="https://github.com/danyz91/CarND-Advanced-Lane-Lines"><img src="" alt="Overview" width="60%" height="60%"></a>
+           <a href="https://github.com/danyz91/CarND-Advanced-Lane-Lines"><img src="https://github.com/danyz91/CarND-Advanced-Lane-Lines/blob/master/output_videos/project_video.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P2: Advanced Lane Finding
            <br><a href="https://github.com/danyz91/CarND-Advanced-Lane-Lines" name="p2_code">(code)</a>
         </p>
     </th>
        <th><p align="center">
-           <a href="https://github.com/danyz91/CarND-Traffic-Sign-Classifier-Project"><img src="" alt="Overview" width="60%" height="60%"></a>
+           <a href="https://github.com/danyz91/CarND-Traffic-Sign-Classifier-Project"><img src="https://github.com/danyz91/CarND-Traffic-Sign-Classifier-Project/blob/master/img/test_out_2.png" alt="Overview" width="60%" height="60%"></a>
            <br>P3: Traffic Signs Classifier
            <br><a href="https://github.com/danyz91/CarND-Traffic-Sign-Classifier-Project" name="p3_code">(code)</a>
         </p>
@@ -34,7 +34,7 @@ This repository gives an overview of all the projects developed for the Udacity 
         </p>
     </th>
     <th><p align="center">
-           <a href="https://github.com/danyz91/CarND-Extended-Kalman-Filter"><img src="" alt="Overview" width="60%" height="60%"></a>
+           <a href="https://github.com/danyz91/CarND-Extended-Kalman-Filter"><img src="https://github.com/danyz91/CarND-Extended-Kalman-Filter/blob/master/img/both_d1.png" alt="Overview" width="60%" height="60%"></a>
            <br>P5: Extended Kalman Filter
            <br><a href="https://github.com/danyz91/CarND-Extended-Kalman-Filter" name="p5_code">(code)</a>
         </p>
